@@ -36,7 +36,7 @@
 افتح المجلد في Android Studio، ثم شغّل:
 
 ```sh
-./gradlew assembleDebug
+bash gradlew assembleDebug
 ```
 
 على Windows استخدم `gradlew.bat assembleDebug`. توجد طريقة بناء بديلة في `tools/build_apk.py`، وتفاصيل التشغيل في [الدليل العربي](README_AR.md).
